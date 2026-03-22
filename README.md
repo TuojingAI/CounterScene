@@ -3,7 +3,7 @@
   <b>
     <span>━━━━━━━━━━━━━━━━━━━━━━━━━━━</span>
     <br/>
-    <img src="assets/logo.png" height="16" width="16" style="display: inline-block; vertical-align: middle; margin: 2px;"> CounterScene
+    <img src="assets/logo.png" height="48" style="display: inline-block; vertical-align: middle; margin: 2px;"> CounterScene
     <br/>
     <span>━━━━━━━━━━━━━━━━━━━━━━━━━━━</span>
     <br/>
